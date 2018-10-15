@@ -1,0 +1,9 @@
+.contentBlogSidebar {
+    position: relative;
+    border: solid 1px #ddd;
+    box-shadow: 0 0 30px #ddd;
+    margin-top: 2%;
+    margin-left: 11px;
+    height:800px;
+    padding:2%;
+}

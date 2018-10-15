@@ -1,0 +1,26 @@
+.ViewBlog {
+    margin: 20px auto;
+    width: 80%;
+    text-align: center;
+    box-shadow: 0 2px 3px #ccc;
+    border: 1px solid #eee;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+@media (min-width: 600px) {
+    .ViewBlog {
+        width: 500px;
+    }
+}
+
+.contentBlog {
+    position: relative;
+    border: solid 1px #ddd;
+    box-shadow: 0 0 30px #ddd;
+    margin-top: 2%;
+    margin-left: 11px;
+    height:800px;
+    flex: 0 0 80% !important;
+    max-width: 80% !important;
+} 
